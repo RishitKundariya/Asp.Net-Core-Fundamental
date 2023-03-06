@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O7YQs8l813YrwWbHOfJU63Zo+M53DSfrviO2zcBFE38=",
+  "Source": "DemoAppAuthenticationAndAuthorization",
+  "BasePath": "_content/DemoAppAuthenticationAndAuthorization",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
